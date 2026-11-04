@@ -12,9 +12,9 @@ Computer Science student at **University of Wisconsin–Madison** with a passion
 
 ### Interests:
 
-- **Backend & Distributed Systems** - Building scalable services with FastAPI, Go, gRPC and Kafka
+- **Backend & Distributed Systems** - Building fast services that hold up under load
 - **Machine Learning** - Training and benchmarking models, currently researching foundation models for medical imaging
-- **Open Source Development** - Contributing to and reviewing code for open source projects
+- **Open Source Development** - Reviewing more code than I write
 
 ---
 
