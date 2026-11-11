@@ -13,8 +13,8 @@ Computer Science student at **University of Wisconsin–Madison** (Go Badgers!!)
 ### Interests:
 
 - **Backend & Distributed Systems** - Building fast services that hold up under load
-- **Machine Learning** - Training and benchmarking models, currently researching foundation models for medical imaging
-- **Open Source Development** - Reviewing more code than I write
+- **Machine Learning** - Training and benchmarking foundation models for medical imaging
+- **Open Source Development** - Contributing code, yet reviewing more code than I write
 
 ---
 
