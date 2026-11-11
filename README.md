@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Science student at **University of Wisconsin–Madison** (Go Badgers) with a passion for building impactful technology.
+Computer Science student at **University of Wisconsin–Madison** (Go Badgers!!) with a passion for building impactful technology.
 
 ### Interests:
 
