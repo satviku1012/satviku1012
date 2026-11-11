@@ -18,7 +18,7 @@ Computer Science student at **University of Wisconsin–Madison** with a passion
 
 ---
 
-## Tech Stack
+## Tech I Used
 
 ### Languages
 
@@ -45,4 +45,3 @@ Computer Science student at **University of Wisconsin–Madison** with a passion
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
