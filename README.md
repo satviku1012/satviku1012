@@ -9,3 +9,5 @@
 ## About Me
 
 Computer Science student at **University of Wisconsin–Madison** (Go Badgers!!) with a passion for building impactful technology.
+
+On the side, I love photography and playing basketball.
