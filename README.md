@@ -9,4 +9,4 @@
 
 Computer Science student at **University of Wisconsin–Madison** (Go Badgers!!) with a passion for building impactful technology.
 
-On the side, I love photography and playing basketball.
+On the side, I love playing crossword puzzles and rock climbing.
