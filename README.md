@@ -7,6 +7,6 @@
 
 ## About Me
 
-Computer Science student at **University of Wisconsin–Madison** with a passion for building impactful technology.
+Computer Science student at the University of Wisconsin–Madison with a passion for building impactful technology.
 
 On the side, I love playing crossword puzzles and rock climbing.
